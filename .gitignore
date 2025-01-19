@@ -1,0 +1,47 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
+target/
+build/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.pot
+*.pyc
+*.swp
+*.swo
+*.vscode/
+*.idea/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Virtualenv
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
