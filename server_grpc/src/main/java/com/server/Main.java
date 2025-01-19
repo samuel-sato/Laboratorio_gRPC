@@ -12,7 +12,6 @@ public class Main {
             .addService(new ServiceGRPC())
             .build();
 
-
             server.start();
 
             System.out.println("Server started at " + server.getPort());
@@ -21,19 +20,5 @@ public class Main {
             System.out.println("========= ERRO =========");
             System.out.println(e.getMessage());
         }
-        
-        
-        // Contador contador = new Contador();
-
-        // contador.incluir("casa");
-        // contador.incluir("casa");
-        // contador.incluir("casa");
-
-        // contador.incluir("carro");
-        // contador.incluir("teste");
-        // contador.incluir("aprender");
-
-        // Map<String, Integer> map = contador.consultar();
-        // System.out.println(map);
     }
 }
