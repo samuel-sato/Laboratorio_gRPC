@@ -9,6 +9,7 @@
 | Matrícula  | Aluno                          |
 | ---------- | ------------------------------ |
 | 20/0069322 | Samuel Alves Sato              |
+| 20/2015984 | Breno Henrique de Souza        |
 
 ## O que é um gRPC
 
