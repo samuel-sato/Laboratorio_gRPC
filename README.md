@@ -18,9 +18,6 @@
 
 
 ### Fluxograma do Projeto
-![fluxos (2)](https://github.com/user-attachments/assets/e256da06-b37a-40f4-b3c9-d509dcdf911c)
-
-- OBS: Para maior detalhamento de cada funcionalidade, acesse [esse link](documentacao/passoapasso-uso.md)
 
 ## Manual
 
