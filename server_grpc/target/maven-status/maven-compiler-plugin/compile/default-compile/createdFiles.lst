@@ -1,5 +1,6 @@
 proto/ContadorServiceGrpc$ContadorServiceFutureStub.class
 proto/ContadorServiceGrpc$ContadorServiceBlockingStub.class
+com/server/Contador.class
 proto/Microservice$EmptyRequest$1.class
 proto/ContadorServiceGrpc$ContadorServiceStub.class
 proto/Microservice$MicroserviceRes$1.class
@@ -8,6 +9,7 @@ proto/Microservice$MicroserviceResConsultar$DataDefaultEntryHolder.class
 proto/Microservice$MicroserviceReq$1.class
 proto/ContadorServiceGrpc$ContadorServiceMethodDescriptorSupplier.class
 proto/Microservice$MicroserviceRes$Builder.class
+com/server/Main.class
 proto/Microservice$MicroserviceReq$Builder.class
 proto/Microservice$MicroserviceResConsultar$1.class
 proto/Microservice$MicroserviceResConsultarOrBuilder.class
