@@ -1,7 +1,7 @@
 # Laboratório gRPC
 
-**Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
-**Nro do Grupo**: 01<br>
+**Disciplina**: Programação para Sistemas Paralelos e Distribuídos 2024.2 <br>
+**Turma**: T02<br>
 
 
 ## Alunos
