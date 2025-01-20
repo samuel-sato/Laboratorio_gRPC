@@ -84,6 +84,3 @@ O servidor gRPC recebe palavras via requisição POST e executa ações com base
    curl -X POST http://192.168.122.248:8080/contador \
    -H "Content-Type: application/json" \
    -d '{"palavra": "IMPRIMIR"}'
-
-## Vídeo
-
