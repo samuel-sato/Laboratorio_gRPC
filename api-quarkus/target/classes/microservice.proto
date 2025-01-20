@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option java_package = "proto";
+
+service ContadorService {
+    rpc Incluir (MicroserviceReq) returns (MicroserviceRes) {}
+    rpc Consultar (EmptyRequest) returns (MicroserviceResConsultar){}
+}
+message EmptyRequest {}
+
+message MicroserviceResConsultar {
+    map<string, int32> data = 1; 
+}
+  
+message MicroserviceReq {
+    string palavra = 1; 
+}
+  
+message MicroserviceRes {
+    int32 result = 1;
+}

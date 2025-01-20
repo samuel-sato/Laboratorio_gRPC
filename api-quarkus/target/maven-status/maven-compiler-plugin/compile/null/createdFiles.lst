@@ -1,0 +1,14 @@
+proto/ContadorServiceGrpc$ContadorServiceFutureStub.class
+proto/ContadorServiceGrpc$ContadorServiceBlockingStub.class
+proto/ContadorServiceGrpc$ContadorServiceStub.class
+proto/ContadorServiceGrpc$3.class
+proto/ContadorServiceGrpc$ContadorServiceMethodDescriptorSupplier.class
+proto/ContadorServiceGrpc$ContadorServiceFileDescriptorSupplier.class
+proto/ContadorServiceGrpc$ContadorServiceBaseDescriptorSupplier.class
+proto/ContadorServiceGrpc$AsyncService.class
+proto/ContadorServiceGrpc$2.class
+proto/ContadorServiceGrpc$ContadorServiceImplBase.class
+main/java/org/quarkus/api/request.class
+proto/ContadorServiceGrpc$1.class
+proto/ContadorServiceGrpc$MethodHandlers.class
+proto/ContadorServiceGrpc.class

@@ -1,6 +1,5 @@
 # Java
 *.class
-*.jar
 *.war
 *.ear
 *.db
@@ -10,7 +9,6 @@
 *.project
 *.classpath
 *.settings/
-target/
 build/
 
 # Python
