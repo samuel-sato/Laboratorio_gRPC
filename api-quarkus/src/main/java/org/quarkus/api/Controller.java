@@ -30,7 +30,7 @@ public class Controller {
         if(palavra == null || palavra.isBlank())
             return "Palavra não informada";
 
-        ManagedChannel channel = ManagedChannelBuilder.forAddress("localhost", 8999).usePlaintext().build();
+        ManagedChannel channel = ManagedChannelBuilder.forAddress("192.168.122.218", 8999).usePlaintext().build();
 
         ContadorServiceGrpc.ContadorServiceBlockingStub stub = ContadorServiceGrpc.newBlockingStub(channel);
 
