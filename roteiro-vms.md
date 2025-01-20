@@ -33,19 +33,19 @@
 ### **Etapa 2:** Criar uma Nova Máquina Virtual
 
 1. No Virt-Manager, clique em **File** -> **New Virtual Machine**.
-   ![Imagem-1](../Laboratorio_gRPC/assets/Captura%20de%20Tela%202025-01-19%20às%2021.56.43.png)
+   ![Imagem-1](./assets/Captura%20de%20Tela%202025-01-19%20às%2021.56.43.png)
 
 2. Escolha a opção **Import existing disk image**.
-   ![Imagem-2](../Laboratorio_gRPC/assets/create-virtual-machine.png)
+   ![Imagem-2](./assets/create-virtual-machine.png)
 
 3. Adicione o arquivo QCOW2:
    - Clique em **Browse** e selecione o arquivo da VM desejada.
-   ![Imagem-3](../Laboratorio_gRPC/assets/browse-for-qcow2.png)
-   ![Imagem-4](../Laboratorio_gRPC/assets/escolhe-qcow2.png)
+   ![Imagem-3](./assets/browse-for-qcow2.png)
+   ![Imagem-4](./assets/escolhe-qcow2.png)
 
 4. Configure o sistema operacional:
    - Escolha o sistema operacional correspondente e ajuste as configurações desejadas.
-   ![Imagem-5](../Laboratorio_gRPC/assets/escolhe-ambiente-virtual.png)
+   ![Imagem-5](./assets/escolhe-ambiente-virtual.png)
 
 5. Finalize a criação:
    - Clique em **Finish** para concluir.
